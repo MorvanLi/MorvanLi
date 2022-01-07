@@ -4,7 +4,9 @@
 - 🌱 My research interests include deep learning and target recognition. 
 - 🤔 I’m currently coding in python and C++.
 
+## ⚡  **News**
 
+_**We released the paper code of A novel fusion method based on dynamic threshold neural P systems and nonsubsampled contourlet transform for multi-modality medical images[DTNP-MIF](https://github.com/MorvanLi/DTNP-MIF)!**_
 
 ## 今年汇总 ✨
 
