@@ -6,7 +6,7 @@
 
 ## ⚡  **News**
 
-_**We released the paper code of A novel fusion method based on dynamic threshold neural P systems and nonsubsampled contourlet transform for multi-modality medical images[DTNP-MIF](https://github.com/MorvanLi/DTNP-MIF)!**_
+_**We released the paper code of A novel fusion method based on dynamic threshold neural P systems and nonsubsampled contourlet transform for multi-modality medical images [DTNP-MIF](https://github.com/MorvanLi/DTNP-MIF)!**_
 
 ## 今年汇总 ✨
 
