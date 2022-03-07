@@ -12,7 +12,7 @@ _**We released the  code of [DTNP-MIF](https://github.com/MorvanLi/DTNP-MIF) and
 
 ***Our new work (DTNP and CNP) for medical image fusion.***
 
-<div><img src="https://github.com/MorvanLi/MorvanLi.github.io/tree/main/images/paper_CVIU_2021.png" width="480"  style = "max-width: 100%"></div>
+<div><img src="https://github.com/MorvanLi/MorvanLi.github.io/tree/main/images/paper_CVIU_2021.png"></div>
 
 
 
