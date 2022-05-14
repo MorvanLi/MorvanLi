@@ -1,6 +1,6 @@
 ## Bo Li  ![visitors](https://visitor-badge.glitch.me/badge?page_id=MorvanLi/MorvanLi) 
 
-_**I am currently an algorithm engineer.**_
+_**I am currently an algorithm engineer.  My research is mainly related to image fusion computer vision and membrane computing. I am also broadly interested in computer graphics and computer vision in general.**_
 
 ## ⚡  **News**
 
