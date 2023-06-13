@@ -1,19 +1,12 @@
-## Bo Li  ![visitors](https://visitor-badge.glitch.me/badge?page_id=MorvanLi/MorvanLi) 
+## Bo Li  [![GitHub MorvanLi](https://img.shields.io/github/followers/MorvanLi?label=follower%20github&style=flat-square)](https://github.com/MorvanLi) 
 
-_**Hi, there. I am Morvan, and my research is mainly related to image fusion computer vision and membrane computing. I am also broadly interested in computer graphics and computer vision in general. Email: morvanli1995@gmail.com**_
+_**I am an incoming Ph.D. student in Computer Technology at Xi'an Jiaotong University, and my research is mainly related to image fusion computer vision and membrane computing. I am also broadly interested in in natural language processing and logical reasoning in general. **_
+
+
 
 ## ⚡  **News**
 
 _**We released the  code of [DTNP-MIF](https://github.com/MorvanLi/DTNP-MIF) and [CNP-MIF](https://github.com/MorvanLi/CNP-MIF) !**_
-
-
-
-## ⚡  **News**
-
-***Our new work (DTNP and CNP) for medical image fusion.***
-
-<div><img src="https://github.com/MorvanLi/Python/blob/main/images/paper_CVIU_2021.png" width="480"  style = "max-width: 100%"></div>
-
 
 
 ## :cyclone:  **News**
@@ -26,8 +19,6 @@ _**I will release the  paper code of  multi-focus image fusion based on dynamic 
 
 | [CNP-MIF](https://github.com/MorvanLi/CNP-MIF) | **[DTNP-MIF](https://github.com/MorvanLi/DTNP-MIF)** | **[DTNP-MFIF](https://github.com/MorvanLi)** | **[CNP-MFIF](https://github.com/MorvanLi)** |
 | ---------------------------------------------- | ---------------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
-
-
 
 
 
