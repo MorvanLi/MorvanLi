@@ -20,7 +20,7 @@ _**I will release the  paper code of  multi-focus image fusion based on dynamic 
 | [CNP-MIF](https://github.com/MorvanLi/CNP-MIF) | **[DTNP-MIF](https://github.com/MorvanLi/DTNP-MIF)** | **[DTNP-MFIF](https://github.com/MorvanLi)** | **[CNP-MFIF](https://github.com/MorvanLi)** |
 | ---------------------------------------------- | ---------------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
-
+![](https://raw.githubusercontent.com/MorvanLi/MorvanLi/main/assets/github-contribution-grid-snake.svg)
 
 
 
