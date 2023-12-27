@@ -1,6 +1,6 @@
 ## Bo Li  [![GitHub MorvanLi](https://img.shields.io/github/followers/MorvanLi?label=follower%20github&style=flat-square)](https://github.com/MorvanLi) 
 
-_**I am an incoming Ph.D. student in Computer Technology at Xi'an Jiaotong University, and my research is mainly related to image fusion computer vision and membrane computing. I am also broadly interested in in natural language processing and logical reasoning in general.**_
+_**I am a Ph.D. student in Computer Technology at Xi'an Jiaotong University, and my research is mainly related to image fusion computer vision and membrane computing. I am also broadly interested in natural language processing and logical reasoning in general.**_
 
 ## ⚡  **News**
 
